@@ -1,0 +1,71 @@
+body {
+    font-family: monospace;
+    font-size: 15px;
+    background-color: aqua;
+}
+#name-user {
+    margin-top: 15px;
+}
+#name-password {
+    margin-top: 15px;
+}
+#get-data {
+    margin-top: 15px;
+}
+#center-id {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border: solid 3px;
+    width: 400px;
+    height: 200px;
+    background-color: powderblue;
+}
+#log-id {
+    margin-left: 150px;
+    margin-top: 10px;
+}
+#user-id {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#password-id {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#button-id {
+    margin-left: 70px;
+    margin-top: 10px;
+}
+#get-data {
+    padding: 5px;
+    padding-left: 100px;
+    padding-right: 110px;
+    border-radius: 15px;
+}
+#get-data:hover {
+    opacity: 1;
+    background-color: grey;
+    cu
+}
+#name-user {
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 10px;
+}
+#name-password {
+    border-radius: 15px;
+    padding: 5px;
+    padding-left: 10px;
+}
+#name-password:hover {
+    border: solid;
+    background-color: grey;
+    color: white;
+}
+#name-user:hover {
+    border: solid;
+    background-color: grey;
+    color: white;
+}
